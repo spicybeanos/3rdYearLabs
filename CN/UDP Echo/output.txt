@@ -1,0 +1,11 @@
+Server:
+Enter system ip address (ipconfig / ip address):
+172.20.32.237
+the server send is
+hello i am aryan
+
+Client:
+enter buf
+hello i am aryan
+the server echo is
+hello i am aryan
